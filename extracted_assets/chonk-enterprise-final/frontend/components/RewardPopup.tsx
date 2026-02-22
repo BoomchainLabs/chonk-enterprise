@@ -1,0 +1,1 @@
+// RewardPopup component placeholder

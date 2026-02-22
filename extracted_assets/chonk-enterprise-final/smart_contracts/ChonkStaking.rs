@@ -1,0 +1,1 @@
+// Anchor Rust staking program placeholder
